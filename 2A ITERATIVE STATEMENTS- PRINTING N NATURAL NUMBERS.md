@@ -33,7 +33,7 @@ for i in range(1, n + 1):
 ![image](https://github.com/user-attachments/assets/02c7e4e8-a5f6-4683-831a-7a11ac7ea2bf)
 
 ### RESULT
-```
+
 Thus the program to print n natural numbers using while loop has been implemented and executed successfully.
-```
+
 
